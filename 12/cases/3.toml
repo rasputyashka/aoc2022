@@ -1,0 +1,10 @@
+#  this is the example of case_file
+#  .toml format
+[main]
+in = """
+Sabcdef
+qrstuvg
+pEzyxwh
+onmlkji
+"""
+out = "27" # output may not be specified - "?"

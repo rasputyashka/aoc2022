@@ -1,0 +1,7 @@
+[main]
+in = """
+A Y
+B X
+C Z
+"""
+out = "12"

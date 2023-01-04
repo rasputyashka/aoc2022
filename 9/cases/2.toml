@@ -1,0 +1,14 @@
+#  this is the example of case_file
+#  .toml format
+[main]
+in = """
+R 5
+U 8
+L 8
+D 3
+R 17
+D 10
+L 25
+U 20
+"""
+out = "36" # output may not be specified - "?"

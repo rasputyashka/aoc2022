@@ -1,0 +1,1 @@
+# This folder is needen only for jjm. See [this readme](https://github.com/rasputyashka/directory_task/blob/main/README.md)
